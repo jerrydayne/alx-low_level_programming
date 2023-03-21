@@ -4,7 +4,8 @@
 
 /**
  * main - Displays last digit of randomly generated number
- * Return : Always 0 as successful 
+ *
+ *Return: Always 0 as successful
  */
 
 int main(void)
